@@ -16,8 +16,7 @@ Skills: Python / NumPy / Pandas / Sklearn / Matplotlib
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MattG-bci&show_icons=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MattG-bci)  
-
-![Profile views](https://gpvc.arturio.dev/MattG-bci)  
+ 
 
 <!--
 **MattG-bci/MattG-bci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
