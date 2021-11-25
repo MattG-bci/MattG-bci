@@ -1,10 +1,10 @@
 ### Hi there 👋, Mateusz Grzybowski here
-#### I am 2nd year biomedical engineering student
+#### I am 3rd year biomedical engineering student
 ![I am 2nd year biomedical engineering student](https://github.com/MattG-bci/MattG-bci/blob/main/bci.png)
 
 I'm passionate about applying Computer Science and Engineering concepts to develop human health. The most interesting part of it for me is human-computer interactions. Also, I'm learning to program simply because I enjoy it!
 
-Skills: Python / NumPy / Pandas / Sklearn / Matplotlib
+Skills: Python / NumPy / Pandas / Sklearn / Matplotlib / PyTorch
 
 - 🌱 I’m currently learning Machine Learning and Data Science (especially for neurotechnological application) 
 
