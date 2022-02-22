@@ -5,8 +5,6 @@
 ## About
 I'm passionate about applying Signal Processing and Machine Learning concepts to improve human health and potential. The most interesting parts of it for me are brain-computer iterfaces and biomedical signal processing. Also, I'm learning to program simply because I enjoy it!
 
-Skills: Python / NumPy / Pandas / Sklearn / Matplotlib / PyTorch
-
 I’m currently:
 - Learning Machine Learning and Data Science (especially for neurotechnological application).
 - Contributing to ML repositories.
@@ -18,7 +16,7 @@ I’m currently:
 [<img align="left" alt="MATLAB" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />](https://www.mathworks.com/)
 [<img align="left" alt="Simulink" width="35px" src="https://upload.wikimedia.org/wikipedia/en/3/36/Simulink_Logo_%28non-wordmark%29.png" />](https://uk.mathworks.com/products/simulink.html)
 [<img align="left" alt="Arduino" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" />](https://www.arduino.cc/)
-[<img align="left" alt="LabVIEW" width="70px" src="https://ftpmirror.your.org/pub/wikimedia/images/wikipedia/he/3/38/Labview-logo.png" />](https://www.ni.com/en-gb/shop/labview.html)
+[<img align="left" alt="LabVIEW" width="100px" src="https://ftpmirror.your.org/pub/wikimedia/images/wikipedia/he/3/38/Labview-logo.png" />](https://www.ni.com/en-gb/shop/labview.html)
 
 
 <br/>
@@ -26,9 +24,9 @@ I’m currently:
 
 ## Skills
 
-[<img align="left" alt="NumPy" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" />](https://numpy.org/)
-[<img align="left" alt="Pandas" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />](https://pandas.pydata.org/)
-[<img align="left" alt="Sklearn" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />](https://scikit-learn.org/stable/)
+[<img align="left" alt="NumPy" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" />](https://numpy.org/)
+[<img align="left" alt="Pandas" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />](https://pandas.pydata.org/)
+[<img align="left" alt="Sklearn" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />](https://scikit-learn.org/stable/)
 [<img align="left" alt="Pytorch" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" />](https://pytorch.org/)
 [<img align="left" alt="Matplotlib" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" />](https://matplotlib.org/)
 [<img align="left" alt="Seaborn" width="70px" src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" />](https://seaborn.pydata.org/#)
