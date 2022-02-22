@@ -1,6 +1,6 @@
 ### Hi there 👋, Mateusz Grzybowski here
 #### I am 3rd year medical devices and student student
-(https://github.com/MattG-bci/MattG-bci/blob/main/bci.png)
+[<img src="https://github.com/MattG-bci/MattG-bci/blob/main/bci.png" />]
 
 ## About
 I'm passionate about applying Signal Processing and Machine Learning concepts to improve human health and potential. The most interesting parts of it for me are brain-computer iterfaces and biomedical signal processing. Also, I'm learning to program simply because I enjoy it!
@@ -9,6 +9,7 @@ I’m currently:
 - Learning Machine Learning and Data Science (especially for neurotechnological application).
 - Contributing to ML repositories.
 - Writing dissertation on improving confidence estimation of ML algorithms on cardiac MRI classification.
+- Applying for postgraduate studies and summer internships.
 
 
 ## Programming Languages & Software
