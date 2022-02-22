@@ -7,9 +7,31 @@ I'm passionate about applying Signal Processing and Machine Learning concepts to
 
 Skills: Python / NumPy / Pandas / Sklearn / Matplotlib / PyTorch
 
-- 🌱 I’m currently learning Machine Learning and Data Science (especially for neurotechnological application) 
+I’m currently:
+- Learning Machine Learning and Data Science (especially for neurotechnological application).
+- Contributing to ML repositories.
+- Writing dissertation on improving confidence estimation of ML algorithms on cardiac MRI classification.
+
+
+## Programming Languages & Software
+[<img align="left" alt="Python" width="35px" src="https://cdn.picpng.com/logo/language-logo-python-44976.png" />](https://www.python.org/about/)
+[<img align="left" alt="MATLAB" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />](https://www.mathworks.com/)
+[<img align="left" alt="Simulink" width="35px" src="https://upload.wikimedia.org/wikipedia/en/3/36/Simulink_Logo_%28non-wordmark%29.png" />](https://uk.mathworks.com/products/simulink.html)
+[<img align="left" alt="Arduino" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" />](https://www.arduino.cc/)
+[<img align="left" alt="LabVIEW" width="70px" src="https://ftpmirror.your.org/pub/wikimedia/images/wikipedia/he/3/38/Labview-logo.png" />](https://www.ni.com/en-gb/shop/labview.html)
+
+
+<br/>
+<br/>
 
 ## Skills
+
+[<img align="left" alt="NumPy" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" />](https://numpy.org/)
+[<img align="left" alt="Pandas" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />](https://pandas.pydata.org/)
+[<img align="left" alt="Sklearn" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />](https://scikit-learn.org/stable/)
+[<img align="left" alt="Pytorch" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" />](https://pytorch.org/)
+[<img align="left" alt="Matplotlib" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" />](https://matplotlib.org/)
+[<img align="left" alt="Seaborn" width="70px" src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" />](https://seaborn.pydata.org/#)
 
 <br/>
 <br/>
@@ -22,19 +44,6 @@ Skills: Python / NumPy / Pandas / Sklearn / Matplotlib / PyTorch
 <br/>
 <br/>
  
-## Programming Languages & Software
-[<img align="left" alt="Python" width="35px" src="https://cdn.picpng.com/logo/language-logo-python-44976.png" />](https://www.python.org/about/)
-[<img align="left" alt="MATLAB" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />](https://www.mathworks.com/)
-[<img align="left" alt="Simulink" width="35px" src="https://upload.wikimedia.org/wikipedia/en/3/36/Simulink_Logo_%28non-wordmark%29.png" />](hhttps://uk.mathworks.com/products/simulink.html)
-[<img align="left" alt="Arduino" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" />](https://www.arduino.cc/)
-[<img align="left" alt="LabVIEW" width="35px" src="https://ftpmirror.your.org/pub/wikimedia/images/wikipedia/he/3/38/Labview-logo.png" />](https://www.ni.com/en-gb/shop/labview.html)
-
-
-
-
-
-<br/>
-<br/>
 
 
 ## Stats
@@ -48,7 +57,7 @@ Skills: Python / NumPy / Pandas / Sklearn / Matplotlib / PyTorch
 <br/>
 <br/>
  
- ## Let's get in touch!
+ ## Let's keep in touch!
 [<img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt='linkedin' height='40'>](https://www.linkedin.com/in/mfgrzybowski/)
 [<img src="https://img.icons8.com/fluency/48/000000/github.png" alt='github' height='40'>](https://github.com/MattG-bci) 
 <!--
