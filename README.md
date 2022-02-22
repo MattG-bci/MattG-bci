@@ -18,8 +18,8 @@ Skills: Python / NumPy / Pandas / Sklearn / Matplotlib / PyTorch
 
  
 ## Programming Languages
-[<img align="left" alt="Python" width="35px" src="https://cdn.picpng.com/logo/language-logo-python-44976.png" />][https://www.python.org/about/]
-[<img align="left" alt="MATLAB" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />][https://www.mathworks.com/]
+[<img align="left" alt="Python" width="35px" src="https://cdn.picpng.com/logo/language-logo-python-44976.png" />](https://www.python.org/about/)
+[<img align="left" alt="MATLAB" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />](https://www.mathworks.com/)
 
 
 ## Stats
