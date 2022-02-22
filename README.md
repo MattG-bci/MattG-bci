@@ -24,8 +24,8 @@ I’m currently:
 
 ## Skills
 
-[<img align="left" alt="NumPy" width="110px" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" />](https://numpy.org/)
-[<img align="left" alt="Pandas" width="110px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />](https://pandas.pydata.org/)
+[<img align="left" alt="NumPy" width="130px" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" />](https://numpy.org/)
+[<img align="left" alt="Pandas" width="140px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />](https://pandas.pydata.org/)
 [<img align="left" alt="Sklearn" width="110px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />](https://scikit-learn.org/stable/)
 [<img align="left" alt="Pytorch" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" />](https://pytorch.org/)
 [<img align="left" alt="Matplotlib" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" />](https://matplotlib.org/)
