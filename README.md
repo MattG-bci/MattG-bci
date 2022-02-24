@@ -7,7 +7,7 @@ I'm 3rd year medical devices and systems student at The University of Sheffield.
 
 I’m currently:
 - Learning Machine Learning and Data Science (especially for neurotechnological application).
-- Contributing to ML repositories.
+- Contributing to ML repositories. (presently: https://github.com/Zuddas-S/ACS341)
 - Writing dissertation on improving confidence estimation of ML algorithms on cardiac MRI classification.
 - Applying for postgraduate studies and summer internships.
 
