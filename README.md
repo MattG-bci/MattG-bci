@@ -3,13 +3,11 @@
 <img src="https://github.com/MattG-bci/MattG-bci/blob/main/bci.png" />
 
 ## About
-I'm 3rd year medical devices and systems student at The University of Sheffield. I'm passionate about applying Signal Processing and Machine Learning concepts to improve human health and potential. The most interesting parts of it for me are brain-computer iterfaces and biomedical signal processing. Also, I'm learning to program simply because I enjoy it!
+I'm a graduate in medical devices and systems from The University of Sheffield and incoming MSc Applied Machine Learning student at Imperial College London. I have completed my undergraduate degree with a dissertation on topic "Improvement of confidence estimation of machine learning algorithms for cardiac MRI classification" with a relatively high score. During summer 2022 I was a Deep Learning Research Intern at Insigneo institute where I developed skills and knowledge in common computer vision tasks such as semantic segmentation and object detection. I'm passionate about computer vision, neurotechnology and machine learning which I believe have an enormous potential for enhancing human health and physical and mental health. 
 
 I’m currently:
 - Learning Machine Learning and Data Science (especially for neurotechnological application).
-- Contributing to ML repositories. (presently: https://github.com/Zuddas-S/ACS341)
-- Writing dissertation on improving confidence estimation of ML algorithms on cardiac MRI classification.
-- Applying for postgraduate studies and summer internships.
+- Contributing to ML repositories. (such as https://github.com/Zuddas-S/ACS341)
 
 
 ## Programming Languages & Software
