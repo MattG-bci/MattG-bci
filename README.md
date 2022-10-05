@@ -3,7 +3,7 @@
 <img src="https://github.com/MattG-bci/MattG-bci/blob/main/bci.png" />
 
 ## About
-I'm a graduate in medical devices and systems from The University of Sheffield and incoming MSc Applied Machine Learning student at Imperial College London. I have completed my undergraduate degree with a dissertation on topic "Improvement of confidence estimation of machine learning algorithms for cardiac MRI classification" with a relatively high score. During summer 2022 I was a Deep Learning Research Intern at Insigneo institute where I developed skills and knowledge in common computer vision tasks such as semantic segmentation and object detection. I'm passionate about computer vision, neurotechnology and machine learning which I believe have an enormous potential for enhancing human health and physical and mental health. 
+I'm a graduate in medical devices and systems from The University of Sheffield and currently a MSc Applied Machine Learning student at Imperial College London. I have completed my undergraduate degree with a dissertation on topic "Improvement of confidence estimation of machine learning algorithms for cardiac MRI classification" with a relatively high score. During summer 2022 I was a Deep Learning Research Intern at Insigneo institute where I developed skills and knowledge in common computer vision tasks such as semantic segmentation and object detection. I'm passionate about computer vision, neurotechnology and machine learning which I believe have an enormous potential for enhancing human health and physical and mental health. 
 
 I’m currently:
 - Learning Machine Learning and Data Science (especially for neurotechnological application).
