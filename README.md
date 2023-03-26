@@ -14,9 +14,10 @@ class Matt:
  def greet(self):
   print(f"Hello there! My name is Matt, I am {self.age} years old. I am currently a {self.occupation} at {self.institution} pursuing a career in fields of my intersts: {self.interests}.")
 
- def get_contacts(self):
+
+ def get_contact_details(self):
   print("Let's keep in touch!")
-  return self.linkedin, self.github, email
+  return self.linkedin, self.github, self.email
 ```
 
 
