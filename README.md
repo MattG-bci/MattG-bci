@@ -26,11 +26,11 @@ class Matt:
  def get_more_info(self):
   print("I speak the following languages: \n")
   for idx, lang in enumerate(self.languages):
-   print(f"{idx}: {lang}")
+   print(f"{idx}: {lang} \n")
   
   print("Moreover, I have experiance with the tools listed below: \n")
   for tool in self.tools:
-   print(f"* {tool}")
+   print(f"* {tool} \n")
    
    
 ```
