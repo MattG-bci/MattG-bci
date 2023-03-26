@@ -9,6 +9,7 @@ class Matt:
   self.linkedin = "https://www.linkedin.com/in/mfgrzybowski/"
   self.github = "https://github.com/MattG-bci/"
   self.email = "mateusz.f.grzybowski@gmaill.com"
+  self.leetcode = "https://leetcode.com/MattG-bci/"
   self.languages = ["English", "Spanish", "Polish"]
   self.tools = ["Pytorch", "TensorFlow", "Pandas", "Numpy", "Arduino", "Matlab",  "HTML", "CSS", "Linux (Ubuntu)", "MacOS"]
   self.hobbies = ["Chess", "Gym"]
