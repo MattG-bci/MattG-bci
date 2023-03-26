@@ -65,13 +65,15 @@ I’m currently:
 **MattG-bci/MattG-bci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-'''python3
+``` python
 
-import pandas as pd
+class Matt:
+ def __init__(self):
+  self.age = 22
+  self.occupation = "MSc Applied Machine Learning student"
+  self.institution = "Imperial College London"
 
-
-
-'''
+```
 
 
 
