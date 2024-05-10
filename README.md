@@ -2,7 +2,7 @@
 
 class Matt:
  def __init__(self):
-  self.age = 22
+  self.age = 23
   self.occupation = "MSc Applied Machine Learning student"
   self.institution = "Imperial College London"
   self.interests = ["Software Development", "Deep Learning", "Computer Vision", "Neurotechnology"]
@@ -12,7 +12,6 @@ class Matt:
   self.leetcode = "https://leetcode.com/MattG-bci/"
   self.languages = ["English", "Spanish", "Polish"]
   self.tools = ["Pytorch", "TensorFlow", "Pandas", "Numpy", "Arduino", "Matlab",  "HTML", "CSS", "Linux (Ubuntu)", "MacOS"]
-  self.hobbies = ["Chess", "Gym"]
   
   
  def greet(self):
