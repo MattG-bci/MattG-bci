@@ -1,6 +1,6 @@
-<div style="text-align:center; font-size: 30px;">
-  Hey 👋, I'm Mateusz! 
-</div>
+<p style="text-align: center;">
+  <span style="font-size: 32px;">Hey 👋, I'm Mateusz! </span>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mfgrzybowski/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"></a>
