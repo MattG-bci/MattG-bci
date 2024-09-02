@@ -1,10 +1,10 @@
-<p align="center" style="font-size: 24px;">
+<p align="center" style="font-size: 32px;">
     Hey 👋, I'm Mateusz! 
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mfgrzybowski/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"></a>
-  <a href="https://mattg-bci.github.io/Personal-Website/"><img src="https://img.shields.io/badge/My%20Website-8A2BE2"></a>
+  <a href="https://www.linkedin.com/in/mfgrzybowski/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"></a>
+  <a href="https://mattg-bci.github.io/Personal-Website/" target="_blank"><img src="https://img.shields.io/badge/My%20Website-8A2BE2"></a>
 </p>
 
 ### Glad to see you here!
@@ -24,7 +24,7 @@ Feel free to connect with me for all things tech or just to say hello! Let's sha
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring and learning new technologies, and building cool stuff.
-- 📰 &nbsp; Philosophy, Fantasy/Sci-Fi novels, Movies
+- 📰 &nbsp; Philosophy, Fantasy/Sci-Fi novels, Movies.
 - 🏋️‍♀️ &nbsp; Weightlifting, Running.
 
 ### Languages and Tools:
