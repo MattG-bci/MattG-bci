@@ -1,29 +1,31 @@
-<p align="center">
-## Hey 👋, I'm Mateusz!
+<p align="center" style="font-size: 24px;">
+    Hey 👋, I'm Mateusz! 
+</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mfgrzybowski/)
+<p align="center">
+  <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" href="https://www.linkedin.com/in/mfgrzybowski/">
+  <img src="https://img.shields.io/badge/My%20Website-8A2BE2" href="https://mattg-bci.github.io/Personal-Website/">
+</p>
 
 ### Glad to see you here!
 
 I am a Graduate Data Engineer at Vortexa 🚀
 
-I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Python, AWS, etc.
-
-I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
+I have a passion for problem-solving and learning, driven by the goal of challenging myself, with a strong foundation in Python, AWS, etc.
 
 Feel free to connect with me for all things tech or just to say hello! Let's shape the future of tech together. 🌟
 
 ### Talking about Personal Stuff:
 
 - 🛠 &nbsp; I’m currently working with Python, AWS, etc.
-- 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
+- 🚀 &nbsp; I’m currently exploring ML, Data Engineering, Market Forecasting etc.
 - 💬 &nbsp; Ask me anything, I am quite open for some discussions.
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; I love exploring new technologies and building cool stuff.
-- 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
-- 🍕 &nbsp; Meetups & Tech Events & Hackathons.
+- 💻 &nbsp; I love exploring and learning new technologies, and building cool stuff.
+- 📰 &nbsp; Philosophy, Fantasy/Sci-Fi novels
+- 🏋️‍♀️ &nbsp; Weightlifting, Running.
 
 ### Languages and Tools:
 
@@ -50,13 +52,3 @@ Feel free to connect with me for all things tech or just to say hello! Let's sha
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MattG-bci&hide_border=true" />
 </details>
 
-<details>
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-
-	  </ul>
-</details>
-
-#
-</p>
